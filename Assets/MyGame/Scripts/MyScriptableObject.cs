@@ -6,6 +6,8 @@ using UnityEngine;
 
 public class MyScriptableObject : ScriptableObject
 {
+    public string newname;
     public float randomVal;
+    public float time;
 }
 
