@@ -6,12 +6,12 @@ At the end, the user is able to see how long it took him and if he is either fas
 
 ### Development platform: 
 
-  Windows 10
+  Windows 10,
   Unity202015f1
 
 ### Target platform: 
 
-  WebGL
+  WebGL,
   Android
 
 ### Visuals: 
