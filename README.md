@@ -1,13 +1,18 @@
 # Template2D-Unity202015f1
 
 ### Project description: 
-Introduction/Project summary 
+We have to create a short speed-project. In this project, the user has to type in his or her name and has to generate a random value.
+At the end, the user is able to see how long it took him and if he is either fast, almost to slow or to slow. 
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+
+  Windows 10
+  Unity202015f1
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+
+  WebGL
+  Android
 
 ### Visuals: 
 Screenshots (concept and experience), Video
@@ -19,10 +24,13 @@ Installation process, e.g. step by step instructions that I can run the project 
 (if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
 
 ### Project state: 
-incl. progress in percent
+
+The project is finished. With the help of Kilian's work, i managed to finish and understand the programming behind the project. I'm thankful for his allowance to inspire from his work.
 
 ### Limitations: 
 
 ### Lessons Learned: 
+
+I learned to program a random value generator, a timer, how to use ScriptableObjects, and much more...
 
 Copyright by you :)
