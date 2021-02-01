@@ -33,4 +33,4 @@ The project is finished. With the help of Kilian's work, i managed to finish and
 
 I learned to program a random value generator, a timer, how to use ScriptableObjects, and much more...
 
-Copyright by you :)
+Copyright by lwildmann
